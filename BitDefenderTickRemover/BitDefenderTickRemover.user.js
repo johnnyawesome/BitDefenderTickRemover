@@ -5,6 +5,7 @@
 // @description  Removes the green ticks BitDefender puts next to search results
 // @author       JohnnyAwesome
 // @match        https://www.google.com/search*
+// @match        https://search.yahoo.com/search*
 // @grant        none
 // @icon         https://raw.githubusercontent.com/johnnyawesome/MyLogo/master/MySkull32.ico
 // @icon64	 https://raw.githubusercontent.com/johnnyawesome/MyLogo/master/MySkull64.ico
