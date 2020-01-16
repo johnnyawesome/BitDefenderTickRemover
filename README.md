@@ -1,7 +1,7 @@
 # BitDefenderTickRemover
 Removes green BitDefender Ticks from Search Results
 
-![](https://pngimg.com/uploads/tick/tick_PNG46.png =100x100)
+![](https://pngimg.com/uploads/tick/tick_PNG46.png | width=250)
 
 ## The Problem 
 
