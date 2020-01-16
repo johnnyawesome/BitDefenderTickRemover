@@ -9,12 +9,12 @@ Bitdefender puts green ticks next to every single one of your search results:
 
 ![Bit Defender Green Ticks](https://github.com/johnnyawesome/BitDefenderTickRemover/blob/master/BitDefenderTicks.jpg)
 
-This is of course completely unnecessary. Why?
+In my opinion, this is completely unnecessary. Why?
 
-Because if a site is deemed malicious, BitDefender will put a *red exclamation mark* next to it.
+Because if a site is deemed malicious, *BitDefender will put a red exclamation mark next to it*.
 
 I don't have to know when a site is safe. Bit I'd like to know when it's unsafe.
-This Userscript does just that for you.
+This Userscript does just that for me.
 
 Use at your own risk.
 
