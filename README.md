@@ -1,6 +1,8 @@
 # BitDefenderTickRemover
 Removes green BitDefender Ticks from Search Results
 
+![](https://pngimg.com/uploads/tick/tick_PNG46.png =100x100)
+
 ## The Problem 
 
 Bitdefender puts green ticks next to every single one of your search results:
