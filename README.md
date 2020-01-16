@@ -1,2 +1,3 @@
 # BitDefenderTickRemover
-Removes green BitDefender Ticks from SearchResilts
+Removes green BitDefender Ticks from Search Results
+
