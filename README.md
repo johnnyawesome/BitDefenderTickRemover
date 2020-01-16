@@ -1,6 +1,12 @@
 # 🕷️ BitDefenderTickRemover 🕷️
 Removes green ticks that BitDefender puts next to Search Results
 
+### Works on:
+
+- Google
+- Yahoo
+- Bing
+
 ## The Problem 
 
 Bitdefender puts green ticks next to every single one of your search results:
