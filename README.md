@@ -1,5 +1,5 @@
 # 🕷️ BitDefenderTickRemover 🕷️
-Removes green BitDefender Ticks from Search Results
+Removes green ticks that BitDefender puts next to Search Results
 
 ## The Problem 
 
@@ -11,7 +11,7 @@ In my opinion, this is completely unnecessary. Why?
 
 Because if a site is deemed malicious, *BitDefender will put a red exclamation mark next to it*.
 
-I don't have to know when a site is safe. Bit I'd like to know when it's unsafe.
+I don't have to know when a site is safe. But I'd like to know when it's unsafe.
 This Userscript does just that for me.
 
 Use at your own risk.
