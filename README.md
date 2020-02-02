@@ -33,3 +33,6 @@ It's also possible to run it in:
  - It even works from Firefoxes Console if you don't want to install the Plugin.
    (Settings --> Web Developer --> Console. Paste there, click RUN
    
+## More Information
+
+[I blogged about this project in more detail](https://breaksome.tech/coding-a-bitdefender-tick-remover/)
