@@ -6,6 +6,7 @@
 // @author       JohnnyAwesome
 // @match        https://www.google.com/search*
 // @match        https://search.yahoo.com/search*
+// @match        https://www.bing.com/*
 // @grant        none
 // @icon         https://raw.githubusercontent.com/johnnyawesome/MyLogo/master/MySkull32.ico
 // @icon64	 https://raw.githubusercontent.com/johnnyawesome/MyLogo/master/MySkull64.ico
@@ -15,6 +16,5 @@
 
 (function() {
     'use strict';
-
     setInterval(() => document.querySelectorAll("img[class^='bd_nd_'][class$='_icon_green']").forEach((tick) => tick.remove()), 1500);
 })();
