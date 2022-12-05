@@ -30,6 +30,3 @@ There are several possibilities to run it:
 
 It's also possible to run it in [Greasemonkey for Firefox ](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) 
    
-## More Information
-
-[I blogged about this project in more detail](https://breaksome.tech/coding-a-bitdefender-tick-remover/)
